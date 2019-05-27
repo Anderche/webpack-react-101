@@ -1,0 +1,9 @@
+{
+  "name": "webpack-react-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
