@@ -1,5 +1,5 @@
-import { greet } from './greet.js';
+// import { greet } from './greet.js';
 
-const name = 'Anders'
+const name = "Anders";
 
-console.log(name);
+console.log(greet(name));
