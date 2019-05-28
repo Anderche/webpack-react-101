@@ -1,4 +1,4 @@
-// import { greet } from './greet.js';
+import { greet } from './greet.js';
 
 const name = "Anders";
 

@@ -1,5 +1,7 @@
-function greet(firstName) {
-	return `Hello ${firstName}`;
-} 
+import { capitalize } from './capitalize.js';
 
-// export { greet };
+function greet(firstName) {
+	return `Hello ${capitalize(firstName)}`;
+}
+
+export { greet };
